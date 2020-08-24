@@ -35,7 +35,6 @@ ssid="NOM_DE_MON_SSID"
 psk="MON_MOT_DE_PASSE"   
 }
 ```
-
 Le raspberry est maintenant prêt a démarrer, se connecter au réseau WIFI et être accessible par ssh via le réseau Ethernet.
 
 # 1er démarrage du Raspberry Pi
@@ -43,21 +42,25 @@ Lors du premier démarrage du raspberry, il convient de faire quelques réglages
 
 Tout d'abord se connecter au raspberry avec ssh, une fois connecté effectuer les commandes suivantes dans le terminal.
 
-1. Mettre à jour la liste des paquets:
-
-    * `sudo apt-get update`
-
-2. Mettre à jour le système:
-
-    * `sudo apt-get upgrade -y`
-
-3. Faire une mise à niveau:
-
-    * `sudo apt-get dist-upgrade -y`
-
-4. Eteindre le raspberry:
-
-    * `sudo shutdown 00`
+1. Lancer l'assistant de configuration dédié du raspberry :
+    1. `sudo raspi-config`
+2. Procéder à la configuration souhaitée principalement,
+    1. Paramètres régionaux
+    2. Paramètres réseaux
+3. Changer le mot de passe de l'utilisateur pi: 
+    1. `passwd`
+    2. Taper le nouveau mot de passe
+4. Mettre à jour la liste des paquets:
+    1. `sudo apt-get update`
+5. Mettre à jour le système:
+    1. `sudo apt-get upgrade -y`
+6. Faire une mise à niveau:
+    1. `sudo apt-get dist-upgrade -y`
+7. Redémarrer le raspberry:
+    1. `sudo reboot 00`
+8. Vérifier que tout se passe bien.
+9. Eteindre le raspberry:
+    1. `sudo shutdown 00`
 
 # DEV
 NOM | MAIL | SITE
