@@ -44,23 +44,41 @@ Tout d'abord se connecter au raspberry avec ssh, une fois connecté effectuer le
 
 1. Lancer l'assistant de configuration dédié du raspberry :
     1. `sudo raspi-config`
-2. Procéder à la configuration souhaitée principalement,
-    1. Paramètres régionaux
-    2. Paramètres réseaux
-3. Changer le mot de passe de l'utilisateur pi: 
+2. Procéder à la configuration souhaitée principalement :
+    1. Paramètres régionaux.
+        * Région
+        * Langue
+        * Fuseau horraire
+    2. Paramètres réseaux.
+        * WIFI
+    3. Paramètres avancé
+        * Redimensionner la partition sur la carte micro-SD.
+3. Changer le mot de passe de l'utilisateur pi :
     1. `passwd`
     2. Taper le nouveau mot de passe
-4. Mettre à jour la liste des paquets:
+4. Mettre à jour la liste des paquets :
     1. `sudo apt-get update`
 5. Mettre à jour le système:
     1. `sudo apt-get upgrade -y`
 6. Faire une mise à niveau:
     1. `sudo apt-get dist-upgrade -y`
-7. Redémarrer le raspberry:
+7. Redémarrer le raspberry :
     1. `sudo reboot 00`
 8. Vérifier que tout se passe bien.
-9. Eteindre le raspberry:
+9. Eteindre le raspberry :
     1. `sudo shutdown 00`
+
+# PRET
+Voilà !
+
+Vous disposez maintenant d'un *Raspberry Pi* tout frais tout neuf :)
+
+Maintenant il ne vous reste plus qu'a choisir un projet de rêve parmi la liste ci-dessous :
+NOM | DESCRIPTION | URL
+----|-------------|-----
+MagicMirror2 | Un mirroir magique | [howto-pi-magicmirror2]()
+PV_Autoconso | Un gestionnaire d'énergie | []()
+LED RGBW | Un bandeau LED RGBW d'ultra haute qualité | []()
 
 # DEV
 NOM | MAIL | SITE
