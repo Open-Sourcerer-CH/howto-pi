@@ -1,17 +1,19 @@
-# howto-pi
-Tutoriel de base pour les gros NOOBS ! :)
+# Comment bien démarrer avec un *Raspberry Pi* !
+Tutoriel de base pour les gros *NOOBS* ! :)
 
 # Prérequis
 * 1x Raspberry Pi 2/3/4 ou Raspberry Pi Zero
 * 1x Carte micro-SD 8GB (16GB recommandé)
 
 # Télécharger Raspberry Pi OS
-Pour télécharger Raspberry Pi OS, il suffit de se rendre sur le site de la fondation Raspberry Pi.
+Pour télécharger *Raspberry Pi OS*, il suffit de se rendre sur le site de la *Raspberry Pi Foundation*.
 https://www.raspberrypi.org/downloads/
 
-Préferer la version *lite* (plus légère en ressources et en mémoire) à la version *desktop*.
+Si vous débutez avec le *Raspberry Pi* il est recommandé d'utiliser la version *full*. Cette version contient l'OS ainsi qu'une selection de logiciels recommandés.
 
-Pour une installation de dev, il est possible d'utiliser NOOBS.
+Pour des projets de type IoT préferez la version *lite* (plus légère en ressources et en mémoire) à la version *desktop* ou *full*.
+
+Pour une installation de dev, il est possible d'utiliser *NOOBS* l'utilitaire créé par la *Raspberry Pi Foundation*.
 https://www.raspberrypi.org/downloads/noobs/
 
 **Attention, *NOOBS* n'est pas recommandé dans un environnement de prod. Il ralentit le démarrage du raspberry !**
@@ -23,8 +25,8 @@ https://www.raspberrypi.org/downloads/
 # Préparer Raspberry Pi OS
 Avant de démarrer le raspberry, il convient de faire quelques préréglages.
 1. Insérer la carte SD dans l'ordinateur.
-2. Créer un fichier nommé ssh (sans extension) à la racine de la carte SD. //Doit correspondre à /boot
-3. Créer un fichier nommé wpa_supplicant.conf à la racine de la carte SD. //Doit correspondre à /boot
+2. Créer un fichier nommé ssh (sans extension) à la racine de la carte SD. (Doit correspondre à /boot)
+3. Créer un fichier nommé wpa_supplicant.conf à la racine de la carte SD. (Doit correspondre à /boot)
 4. Dans le fichier mettre ceci:
 ```
 country=CH
