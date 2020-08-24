@@ -9,15 +9,15 @@ Tutoriel de base pour les gros NOOBS ! :)
 Pour télécharger Raspberry Pi OS, il suffit de se rendre sur le site de la fondation Raspberry Pi.
 https://www.raspberrypi.org/downloads/
 
-Préferer la version *lite* (plus légère en ressources et en mémoire) à la version *desktop*
+Préferer la version *lite* (plus légère en ressources et en mémoire) à la version *desktop*.
 
 Pour une installation de dev, il est possible d'utiliser NOOBS.
 https://www.raspberrypi.org/downloads/noobs/
 
-**Attention, NOOBS n'est pas recommandé dans un environnement de prod. Il ralentit le démarrage du raspberry !**
+**Attention, *NOOBS* n'est pas recommandé dans un environnement de prod. Il ralentit le démarrage du raspberry !**
 
 # Préparer la carte SD
-Pour copier sur la carte SD l'image téléchargée précédemment, il faut utiliser le logiciel prévu a cet effet Raspberry Pi Imager.
+Pour copier sur la carte SD l'image téléchargée précédemment, il faut utiliser le logiciel prévu a cet effet *Raspberry Pi Imager*.
 https://www.raspberrypi.org/downloads/
 
 # Préparer Raspberry Pi OS
@@ -58,6 +58,6 @@ Tout d'abord se connecter au raspberry avec ssh, une fois connecté effectuer le
     * `sudo shutdown 00`
 
 # DEV
-NOM | MAIL
-----|----
-PIANZOLA Cédric | pianzola.cedric@p-tc.ch
+NOM | MAIL | SITE
+----|------|------
+PIANZOLA Cédric | pianzola.cedric@p-tc.ch | www.p-tc.ch
