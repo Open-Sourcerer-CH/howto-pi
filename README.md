@@ -1,7 +1,9 @@
 # Comment bien démarrer avec un *Raspberry Pi* !
-:checkered_flag: Tutoriel de base pour les gros *NOOBS* ! :checkered_flag:
+<p align="center">
+  <img width="200" height="200" src="/img/raspberrypi-400x400.png">
+</p>
 
-[](/img/raspberrypi-400x400.jpg)
+:checkered_flag: Tutoriel de base pour les gros *NOOBS* ! :checkered_flag:
 
 On démarre de zéro pour que ce tutoriel soit accessible au plus grand nombre. Tu veras ca va être :thumbsup:
 
@@ -102,7 +104,9 @@ MagicMirror2 | Un mirroir magique | [howto-pi-magicmirror2]()
 # SUPPORT
 Tu as besoin d'aide pour la réalisation de ton projet ?
 
-:question: Poses ta question sur notre [forum](https://www.opensourcerer.ch/forum) d'entraide !
+:question: Poses ta question sur notre [forum](https://www.opensourcerer.ch/forums) d'entraide !
+
+Reste informé de nos dernières inventions en t'abonnant à notre flux [*RSS*](https://www.opensourcerer.ch/feed) !
 
 # DEV
 
