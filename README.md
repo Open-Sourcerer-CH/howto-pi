@@ -2,6 +2,9 @@
 <p align="center">
   <img width="200" height="200" src="/img/raspberrypi-400x400.png">
 </p>
+<p align="center">
+  <img width="200" height="200" src="/img/RASPBERRY PI - V3 - 400x400.jpg">
+</p>
 
 :checkered_flag: Tutoriel de base pour les gros *NOOBS* ! :checkered_flag:
 
@@ -21,15 +24,18 @@ Volumio | Audio HiFi | https://www.volumio.org
 * 1x Carte *micro-SD* 8GB (16GB recommandé)
 * 1x Adaptateur *micro-SD* vers *USB* ou *SD*
 
+De bonnes bases en informatiques sont nécéssaire. Des connaissances de *Linux* sont recommandés mais pas indispensables. Afin d'être compris par un maximum de personnes, nous décrirons chacune des commandes que nous utiliserons.
+
 Tu n'as pas de *Raspberry Pi* et tu souhaites en acheter un ?
 
 Nous te proposons plusieurs possibilités,
 1. Sur le site officiel de la *Raspberry Pi Foundation* en cliquant [ici](https://www.raspberrypi.org/) .
-2. Sur le site de vente en ligne *Galaxus* en cliquant [ici](https://www.galaxus.ch) .
-3. Sur le site de vente en ligne *Pi-Shop* en cliquant [ici](https://www.pi-shop.ch) .
+2. Sur le site de vente en ligne *Adafruit* en cliquant [ici](https://www.adafruit.com/) .
+3. Sur le site de vente en ligne (suisse) *Galaxus* en cliquant [ici](https://www.galaxus.ch) .
+4. Sur le site de vente en ligne (suisse) *Pi-Shop* en cliquant [ici](https://www.pi-shop.ch) .
 
 # Télécharger Raspberry Pi OS
-Pour télécharger *Raspberry Pi OS*, il suffit de se rendre sur le site de la *Raspberry Pi Foundation* à la section *Downloads* .
+Pour télécharger *Raspberry Pi OS*, il te suffit de te rendre sur le site de la *Raspberry Pi Foundation* à la section *Downloads* .
 https://www.raspberrypi.org/downloads/
 
 Si tu débutes avec le *Raspberry Pi* il est recommandé d'utiliser la version *full*. Cette version contient l'OS ainsi qu'une selection de logiciels recommandés. Le choix idéal pour découvrir les possibilités offertes par ce petit bijoux. :gem:
@@ -92,9 +98,11 @@ Tout d'abord se connecter au raspberry avec *ssh*, une fois connecté effectuer 
     1. `sudo shutdown 00`
 
 # PRET
-Voilà !
+Voilà ! Ton catalyseur est prêt ! Avec un grimoire magique ton équipement d'apprenti sorcier sera au complet !
 
-Vous disposez maintenant d'un *Raspberry Pi* tout frais tout neuf ! Un vrai petit geek ! :neckbeard:
+Mais pas de hâte nous verrons cela dans notre prochain tutoriel si tu le souhaites.
+
+Tu disposes maintenant d'un *Raspberry Pi* tout frais tout neuf ! Un vrai petit geek ! :neckbeard:
 
 Maintenant il ne te reste plus qu'a choisir un projet de rêve parmi la liste ci-dessous :
 NOM | DESCRIPTION | URL
@@ -109,7 +117,6 @@ Tu as besoin d'aide pour la réalisation de ton projet ?
 Reste informé de nos dernières inventions en t'abonnant à notre flux [*RSS*](https://www.opensourcerer.ch/feed) !
 
 # DEV
-
 Rédiger avec :heart: par PIANZOLA Cédric pour la communauté ["Open Sourcerer [CH]"](https://www.opensourcerer.ch) !
 
 NOM | MAIL | SITE
