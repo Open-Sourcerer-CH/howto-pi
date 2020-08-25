@@ -96,14 +96,20 @@ Maintenant il ne te reste plus qu'a choisir un projet de rêve parmi la liste ci
 NOM | DESCRIPTION | URL
 ----|-------------|-----
 MagicMirror2 | Un mirroir magique | [howto-pi-magicmirror2]()
-PV_Autoconso | Un gestionnaire d'énergie | []()
-LED RGBW | Un bandeau LED RGBW d'ultra haute qualité | []()
+
+# SUPPORT
+Tu as besoin d'aide pour la réalisation de ton projet ?
+
+:question: Poses ta question sur notre [forum](https://www.opensourcerer.ch/forum) d'entraide !
 
 # DEV
+
+Rédiger avec :heart: par PIANZOLA Cédric pour la communauté ["Open Sourcerer [CH]"](https://www.opensourcerer.ch) !
+
 NOM | MAIL | SITE
 ----|------|------
 PIANZOLA Cédric | pianzola.cedric@p-tc.ch | www.p-tc.ch
 
-N'hésites pas a me faire part de tes remarques et commentaires.
+N'hésites pas a me faire part de tes remarques et commentaires. :idea:
 
 Toutes les critiques (constructives ...) sont les bienvenues.
