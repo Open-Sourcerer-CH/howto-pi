@@ -1,6 +1,8 @@
 # Comment bien démarrer avec un *Raspberry Pi* !
 :checkered_flag: Tutoriel de base pour les gros *NOOBS* ! :checkered_flag:
 
+[](/img/raspberrypi-400x400.jpg)
+
 On démarre de zéro pour que ce tutoriel soit accessible au plus grand nombre. Tu veras ca va être :thumbsup:
 
 Dans peu de temps tu seras toi aussi un apprenti sorcier et tu pourras porter ce titre fierement.
