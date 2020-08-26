@@ -10,7 +10,7 @@
 
 On démarre de zéro pour que ce tutoriel soit accessible au plus grand nombre. Tu veras ca va être :thumbsup:
 
-Dans peu de temps tu seras toi aussi un apprenti sorcier et tu pourras porter ce titre fierement.
+Dans peu de temps tu seras toi aussi un ***apprenti sorcier*** et tu pourras porter ce titre fierement grâce au ***catalyseur*** que tu te seras fabriqué.
 
 La marche à suivre décrite dans ce tuto est pour *Raspberry Pi OS* mais elle peut également s'appliquer pour tout un tas d'autres distributions *Linux* .
 NOM | DESCRIPTION | SITE
@@ -138,8 +138,6 @@ Tu as besoin d'aide pour la réalisation de ton projet ?
 
 :question: Poses ta question sur notre [forum](https://www.opensourcerer.ch/forums) d'entraide ! :question:
 
-:exclamation: Restes informé de nos dernières inventions en t'abonnant à notre flux [*RSS*](https://www.opensourcerer.ch/feed) ! :exclamation:
-
 # DEV
 Rédiger avec :heart: par ***PIANZOLA Cédric*** pour la communauté [*Open Sourcerer [CH]*](https://www.opensourcerer.ch) !
 
@@ -150,3 +148,5 @@ PIANZOLA Cédric | pianzola.cedric@p-tc.ch | www.p-tc.ch
 :bulb: N'hésites pas à me faire part de tes remarques et commentaires. :bulb:
 
 Toutes les critiques sont les bienvenues.
+
+:exclamation: Restes informé de nos dernières inventions en t'abonnant à notre flux [*RSS*](https://www.opensourcerer.ch/feed) ! :exclamation:
