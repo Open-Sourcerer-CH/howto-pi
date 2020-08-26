@@ -104,25 +104,29 @@ Mais pas de hâte nous verrons cela dans notre prochain tutoriel si tu le souhai
 
 Tu disposes maintenant d'un *Raspberry Pi* tout frais tout neuf ! Un vrai petit geek ! :neckbeard:
 
+:checkered_flag: Tu es fin prêt pour entré dans le vif de l'action ! :checkered_flag:
+
+
 Maintenant il ne te reste plus qu'a choisir un projet de rêve parmi la liste ci-dessous :
 NOM | DESCRIPTION | URL
 ----|-------------|-----
 MagicMirror2 | Un mirroir magique | [howto-pi-magicmirror2]()
+LED APA102 | Piloter des LEDs RGBWW (APA102) | [howto-pi-led-apa102]()
 
 # SUPPORT
 Tu as besoin d'aide pour la réalisation de ton projet ?
 
-:question: Poses ta question sur notre [forum](https://www.opensourcerer.ch/forums) d'entraide !
+:question: Poses ta question sur notre [forum](https://www.opensourcerer.ch/forums) d'entraide ! :question:
 
-Reste informé de nos dernières inventions en t'abonnant à notre flux [*RSS*](https://www.opensourcerer.ch/feed) !
+:exclamation: Restes informé de nos dernières inventions en t'abonnant à notre flux [*RSS*](https://www.opensourcerer.ch/feed) ! :exclamation:
 
 # DEV
-Rédiger avec :heart: par PIANZOLA Cédric pour la communauté ["Open Sourcerer [CH]"](https://www.opensourcerer.ch) !
+Rédiger avec :heart: par ***PIANZOLA Cédric*** pour la communauté [*Open Sourcerer [CH]*](https://www.opensourcerer.ch) !
 
 NOM | MAIL | SITE
 ----|------|------
 PIANZOLA Cédric | pianzola.cedric@p-tc.ch | www.p-tc.ch
 
-N'hésites pas a me faire part de tes remarques et commentaires. :idea:
+:bulb: N'hésites pas à me faire part de tes remarques et commentaires. :bulb:
 
-Toutes les critiques (constructives ...) sont les bienvenues.
+Toutes les critiques sont les bienvenues.
