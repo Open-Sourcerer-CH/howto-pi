@@ -127,7 +127,7 @@ Tu disposes maintenant d'un *Raspberry Pi* tout frais tout neuf ! Un vrai petit 
 :checkered_flag: Tu es fin prêt pour entré dans le vif de l'action ! :checkered_flag:
 
 
-Maintenant il ne te reste plus qu'a choisir un projet de rêve parmi la liste de projets disponible [ici](howto)
+Maintenant il ne te reste plus qu'a choisir un projet de rêve parmi la liste de projets disponible [ici](/howto) .
 
 # SUPPORT
 Tu as besoin d'aide pour la réalisation de ton projet ?
