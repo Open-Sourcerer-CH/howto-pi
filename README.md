@@ -127,11 +127,7 @@ Tu disposes maintenant d'un *Raspberry Pi* tout frais tout neuf ! Un vrai petit 
 :checkered_flag: Tu es fin prêt pour entré dans le vif de l'action ! :checkered_flag:
 
 
-Maintenant il ne te reste plus qu'a choisir un projet de rêve parmi la liste ci-dessous :
-NOM | DESCRIPTION | URL
-----|-------------|-----
-MagicMirror2 | Un mirroir magique | [howto-pi-magicmirror2]()
-LED APA102 | Piloter des LEDs RGBWW (APA102) | [howto-pi-led-apa102]()
+Maintenant il ne te reste plus qu'a choisir un projet de rêve parmi la liste de projets disponible [ici](howto)
 
 # SUPPORT
 Tu as besoin d'aide pour la réalisation de ton projet ?
